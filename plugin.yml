@@ -1,0 +1,8 @@
+name: GTAWanted
+main: me.endureblackout.gwl.GWL
+version: 1.0
+description: A Wanted level plugin.
+author: [EndureBlackout]
+commands:
+  wanted:
+    description: Main Command
